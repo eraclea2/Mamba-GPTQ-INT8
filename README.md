@@ -1,7 +1,7 @@
 # Mamba-GPTQ-INT8
 
-```
 To run GPTQ, the following pip install methods are needed
+```
 pip install mamba-ssm
 pip install git+https://github.com/huggingface/optimum.git
 pip install einops
