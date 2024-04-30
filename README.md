@@ -28,4 +28,4 @@ How to run GPTQ on Mamba?
 python gptq_mamba.py
 ```
 
-
+To run Mamba with LLM.int8() integration, run the Google Colab notebooks in the `colab_notebooks` directory
