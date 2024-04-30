@@ -22,4 +22,10 @@ You may need to add AutoGPTQ into your sys path by
 import sys
 sys.path.append('/content/AutoGPTQ')
 ```
+How to run GPTQ on Mamba?
+
+```
+python gptq_mamba.py
+```
+
 
